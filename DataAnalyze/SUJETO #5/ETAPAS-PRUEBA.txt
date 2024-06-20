@@ -1,0 +1,10 @@
+12:13:43 Inicio de descanso 1
+12:15:45 fin de descanso 1
+12:17:12 inicio de etapa 1
+12:24:28 fin de etapa 1 
+12:24:29 inicio de descanso 2
+12:27:13 fin de descanso 2 e inicio de etapa 2
+12:41:37 fin de etapa 2 e inicio de descanso 3
+12:43:40 fin de descanso 3
+12:44:25 inicio de etapa 3
+12:58:50 fin de etapa 3

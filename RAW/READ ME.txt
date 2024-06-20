@@ -1,0 +1,34 @@
+En la presente carpeta se contienen los datos obtenidos a través del dispositivo electroencefalográfico y 
+recopilados mediante el dispositivo MyDAQ de NI con ayuda del programa LabView .
+
+Las carpetas están distribuidas con base en el número de participante voluntario asignado mediante el orden 
+en que los voluntarios realizaron su registro o solicitud para la prueba vehicular 
+
+*Participantes:
+
+-Alexis Ceron Maldonado
+-Raúl Armando Ramírez Nieto
+-Ernesto Gilbaja Martínez
+-Vázquez Galán José Emmanuel
+-Marquez Jimenez Itzel
+-Raquel Eugenia Campos Espejel
+-Elodia Arias Pinacho
+-Erick Gilbaja Martínez
+-Ian Eduardo Quiroz Hernández
+-Jose Rodrigo Salas Hernández
+-Biaani Donaji Delfín García
+-Diego Hernández González
+-Jose Ricardo Bejarano Linares
+-Jose Desiderio Torres Rodriguez
+-Silvia Yareth Maldonado Silva 
+
+
+
+*Protocolo: "Registro de señales EEG"
+
+*Nombre de responsables: 
+-Alan Oswaldo Huerta Becerra
+
+*La configuración propuesta para el participante fue: Diagnóstico, sujeto, sexo, fecha y hora.
+Nomenclatura:
+				"Diagnóstico_#_(M o F)_ddmmaa_hhmm"
